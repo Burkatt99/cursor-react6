@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao|Neucha|Patrick+Hand&display=swap");
+.postBlock {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.post {
+  width: 45%;
+  height: 450px;
+  display: flex;
+  background-color: whitesmoke;
+  border: 1px solid #003300;
+  border-radius: 12px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+}
+.imgPost {
+  margin-left: 50px;
+}
+.imgPost img {
+  width: 85%;
+  border-radius: 8%;
+  height: 270px;
+  margin-top: 10px;
+}
+.mainInfAutor,
+.imgPost {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+.icons {
+  width: 90%;
+  margin: 10px 70px;
+  display: flex;
+  flex-direction: row;
+}
+.icons img {
+  width: 35px;
+  height: auto;
+  filter: contrast(150%);
+}
+#photo {
+  padding-top: 10px;
+  width: 30%;
+}
+#photo img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+#name,
+#msg {
+  font-size: 33px;
+  font-family: "Patrick Hand", cursive;
+}
+#nickname,
+#data {
+  margin-top: 20px;
+  font-size: 25px;
+  font-family: "Liu Jian Mao Cao";
+}
+#data {
+  font-family: "Neucha", cursive;
+}
+#msg {
+  font-size: 20px;
+  padding-top: 10px;
+}
+.icons span {
+  font-size: 25px;
+  font-family: "Patrick Hand", cursive;
+  margin-right: 70px;
+}
