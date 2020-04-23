@@ -26,13 +26,14 @@ class AddPost extends Component {
   };
   changeAuthor = (e) => {
     this.setState({ author: e.target.value });
-  };
-  addPost = () => {
-    if (this.state.author === "Tetiana Bura") {
+    if (e.target.value === "Tetiana Bura") {
       this.setState({ photo: me });
-    } else {
+    } else if(e.target.value === 'Anonim'){
       this.setState({ photo: man });
     }
+  };
+  addPost = () => {
+
     this.props.dispatch({
       type: "ADD_ITEM_TODO",
       text: this.state.text,
