@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cursor-react6/static/css/main.ac92f405.chunk.css",
-    "main.js": "/cursor-react6/static/js/main.c93661d7.chunk.js",
-    "main.js.map": "/cursor-react6/static/js/main.c93661d7.chunk.js.map",
+    "main.js": "/cursor-react6/static/js/main.f91fd7d2.chunk.js",
+    "main.js.map": "/cursor-react6/static/js/main.f91fd7d2.chunk.js.map",
     "runtime-main.js": "/cursor-react6/static/js/runtime-main.47ae8719.js",
     "runtime-main.js.map": "/cursor-react6/static/js/runtime-main.47ae8719.js.map",
     "static/js/2.20fbfc67.chunk.js": "/cursor-react6/static/js/2.20fbfc67.chunk.js",
     "static/js/2.20fbfc67.chunk.js.map": "/cursor-react6/static/js/2.20fbfc67.chunk.js.map",
     "index.html": "/cursor-react6/index.html",
-    "precache-manifest.f22e1b9bc151443101c26c96a94ccbd9.js": "/cursor-react6/precache-manifest.f22e1b9bc151443101c26c96a94ccbd9.js",
+    "precache-manifest.70fc97e1285048866b9ec964ba4316d9.js": "/cursor-react6/precache-manifest.70fc97e1285048866b9ec964ba4316d9.js",
     "service-worker.js": "/cursor-react6/service-worker.js",
     "static/css/main.ac92f405.chunk.css.map": "/cursor-react6/static/css/main.ac92f405.chunk.css.map",
     "static/js/2.20fbfc67.chunk.js.LICENSE.txt": "/cursor-react6/static/js/2.20fbfc67.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.47ae8719.js",
     "static/js/2.20fbfc67.chunk.js",
     "static/css/main.ac92f405.chunk.css",
-    "static/js/main.c93661d7.chunk.js"
+    "static/js/main.f91fd7d2.chunk.js"
   ]
 }
